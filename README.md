@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Tomar</h1>
-<h3 align="center">I am a Kaggle Expert and tech enthusiast . I am a solution oriented with Innovative Thinking and knowledge .</h3>
+<h3 align="center">I am a Kaggle Expert. I am a solution oriented with Innovative Thinking and knowledge .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajattomar132&label=Profile%20views&color=0e75b6&style=flat" alt="rajattomar132" /> </p>
 
