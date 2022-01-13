@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajattomar132&label=Profile%20views&color=0e75b6&style=flat" alt="rajattomar132" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajattomar132" alt="rajattomar132" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/rajattomar132" target="blank"><img src="https://img.shields.io/twitter/follow/rajattomar132?logo=twitter&style=for-the-badge" alt="rajattomar132" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/rajattomar132](https://www.kaggle.com/rajattomar132)
 
 - 📝 I regularly write articles on [https://medium.com/@rajattomar132](https://medium.com/@rajattomar132)
@@ -31,3 +35,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajattomar132&show_icons=true&locale=en&layout=compact" alt="rajattomar132" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajattomar132&show_icons=true&locale=en" alt="rajattomar132" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajattomar132&" alt="rajattomar132" /></p>
